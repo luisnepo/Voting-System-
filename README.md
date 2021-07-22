@@ -1,6 +1,6 @@
 # Voting-System-
 Coursework required on my 1st year at Bsc Computer Science
-# Requirements:
+# Coursework Requirements:
 -Users should be able to log in using their student ID file and only be able to vote once:
 
    This was acomplished by utilizing a text file where students ID would be stored so if the student tried to vote again their ID wouldn't be accepted. Since this was    a project for university there was no need to use the university database,otherwise the system would work by accesing a database and marking the students who have    already voted instead of saving their ID onto a text file since a user could enter a fake ID and still be able to enter the system.
